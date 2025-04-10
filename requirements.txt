@@ -1,0 +1,10 @@
+FastAPI
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+alembic
+pytest
+httpx
+python-dotenv
+load-dotenv
